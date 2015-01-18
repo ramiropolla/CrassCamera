@@ -136,7 +136,7 @@ fonctionne pas si le dépoli de visée est en place.
 
 [Image]
 
-MODE D'EMPLOI de la Caméra pour truquages à Exposition Multiple
+Mode d'Emploi de la Caméra pour Truquages à Exposition Multiple
 ===============================================================
 
 Pour séparer l'exposition et le transport du film, il faut retirer la
