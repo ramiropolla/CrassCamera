@@ -1,4 +1,5 @@
 Description de la caméra.
+=========================
 
 Mise en place des chargeurs
 ---------------------------
@@ -20,6 +21,7 @@ Chargement du film
    vierge; les plus longs indiquent la position du cadre-image.
    A présent, on peut abaisser les contre-griffes en tournant le
    bouton (No 2).
+
    Tourner la manivelle pour vérifier si le chargement est correct.
    Après la fermeture de la caméra (boutons sur "Fermé") les
    bouches des chargeurs s'ouvrent et dégagent le film automatiquement.
@@ -59,6 +61,7 @@ Projection
 ----------
 Dans la monture à baîonnette supérieure, on peut adapter la
 lampe de projection après avoir ouvert le volet.
+
 On peut ainsi projeter la fenêtre de prise de vue, des mires ou
 des extraits de film afin d'obtenir un repérage précis sur la
 table. La prise de courant se trouve sur la plaque de base.
@@ -67,14 +70,17 @@ L'obturateur variable
 ---------------------
 L'obturateur variable est réglé à l'aide du tambour (No 13) et
 des boutons (Nos 14 et 15).
+
 Le bouton (No 15) permet de choisir la gamme de vitesses de fermeture
 ou d'ouverture de l'obturateur:
-en 10 - 20 - 40 - 80 images (chiffres blancs) ou
-en 15 - 30 - 60 - 120 images (chiffres rouges).
+  - en 10 - 20 - 40 - 80 images (chiffres blancs) ou
+  - en 15 - 30 - 60 - 120 images (chiffres rouges).
+
 Si le bouton 15 est tiré, une marque rouge est visible: les
 chiffres rouges sont alors valables. Lorsqu'on change la vitesse,
 il faut tourner légèrement le tambour d'avant en arrière pour
 bien eclencher les engrenages.
+
 Généralement, l'obturateur est ouvert lorsque le bouton (No 14)
 est en haut et fermé lorsqu'il est en bas. Si l'on veut manoeuvrer
 l'obturateur à la main, le bouton (No 14) doit être sur les
@@ -84,6 +90,7 @@ Si l'on veut utiliser l'obturateur automatiquement, il faut l'enclencher
 Par exemple: on doit faire un fondu enchaîné en 20 images.
 Régler le bouton (No 14) sur 20. C'est un chiffre blanc, donc
 le bouton (No 15) doit être enfoncé.
+
 L'obturateur est enclenché par le tableau de commande et on est
 prêt pour le fondu automatique. (Si l'on remarque qu'on s'est
 trompé, on peut débrayer l'obturateur en coupant le courant par
@@ -92,6 +99,7 @@ Après 21 images, l'obturateur est fermé complètement. On revient
 en marche arriére au point de départ. Après avoir changé le sujet
 à filmer, on enclenche la marche avant et l'obturateur, au tableau
 de commande.
+
 L'obturateur s'ouvrira automatiquement. En tournant le bouton (No 16)
 on choisit le mouvement linéaire ou logarithmique de l'obturateur.
 Généralement, les fondus d'ouverture et de fermeture sont logarithmiques,
@@ -102,6 +110,7 @@ L'objectif
 L'objectif est placé dans une monture à baîonnette et peut être
 changé en tournant la bague de blocage et en tirant le bouton de
 côté.
+
 L'objectif sorti, on peut voir la courbe de mise au point, gravée
 spécialement pour chaque focale. Ce bouton de côté comporte l'ergot
 qui commande la mise au point automatique. Lorsque l'objectif est
@@ -111,6 +120,7 @@ marques de diaphragmes soient tournées vers l'opérateur. La mise au
 point automatique est débrayable. Elle est actionnée par un pignon
 automatique, on peut régler celle-ci pour une distance quelconque
 de prise de vues.
+
 La mise au point automatique doit être réglée sur la distance de
 prise de vues la plus courte (20 - 30 cm).
 
@@ -121,16 +131,14 @@ Le moteur peut être monté sur la baîonnette en ôtant la manivelle
 Le moteur à vitesse variable fonctionne seulement quand on
 place la fiche dans la prise (No 17) et si la prise Schuko est
 branchée sur 220 V.
+
 La connection de la petite prise est une sécurité: le moteur ne
 fonctionne pas si le dépoli de visée est en place.
 
 [Image]
 
-M O D E  D ' E M P L O I
-------------------------
-       de la
-Caméra pour truquages à Exposition Multiple
--------------------------------------------
+MODE D'EMPLOI de la Caméra pour truquages à Exposition Multiple
+===============================================================
 
 Pour séparer l'exposition et le transport du film, il faut
 retirer la roue A, pousser le bouton B en direction de
@@ -139,15 +147,18 @@ en sens alternatif la roue A, on peut appuyer cette opération,
 afin que l'embrayage soit encliqueté. Après cela, l'interrupteur
 à levier du pupitre ou de la boîte de manoeuvre sera mis en position
 "Séparat".
+
 En actionnant le mécanisme d'escamotage image-image usuel, il est
 possible, alors, d'exécuter les expositions désirées, sans que le
 film vierge est transporté. Le compteur à un seul chiffre compte
 le numéro des expositions. Par le mécanisme d'escamotage à image
 continue, disposé sous la lampe de contrôle, le film est transporté
 et le compteur retourne à zéro.
+
 En insérant un film négatif dans la caméra et à l'aide du dispositif
 de projection, il est possible de démontrer le procédé
 aussi par rapport au fondu automatique.
+
 La remise en position "Normal" de la caméra se fait à rebours.
 D'abord il faut mettre l'interrupteur à levier en position
 "Normal". Le second moteur est débrayé par le levier C.
@@ -159,7 +170,6 @@ coîncident l'un avec l'autre.
 
 Die Mehrfachbelichtungseinrichtung
 ----------------------------------
-
 Die Mehrfachbelichtungseinrichtung gestattet mehrere Belichtungen
 hintereinander auf den ruhenden Rohfilm auszuführen,
 ohne daß der Film weitertransportiert wird.
@@ -180,7 +190,6 @@ können.
 
 Das Dreigang-Getriebe
 ---------------------
-
 Die Kamera ist für drei verschiedene Belichtungszeiten ausgerüstet.
 Für Einzelbild und Dauerbild kombinierte Aufnahmen
 verwendet man am Besten 1/2 und 1/5 Belichtungszeit. Die
@@ -188,7 +197,6 @@ verwendet man am Besten 1/2 und 1/5 Belichtungszeit. Die
 
 Die Bildfeldprojektion
 ----------------------
-
 Die Bildfeldprojektionseinrichtung besteht aus einer Quecksilberhochdrucklampe
 in einem Lampenhaus montiert am Kamerawagen
 des Tricktisches neben der Kamera. Sie brennt dauernd
