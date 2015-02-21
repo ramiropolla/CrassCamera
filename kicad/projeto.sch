@@ -1,0 +1,306 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:special
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:crass
+LIBS:electrotechnique
+EELAYER 27 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date "21 feb 2015"
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L CRASS_8X2 P?
+U 1 1 54E8B6FE
+P 5600 3350
+F 0 "P?" H 5600 3800 60  0000 C CNN
+F 1 "CRASS_8X2" V 5600 3350 50  0000 C CNN
+F 2 "~" H 5600 3350 60  0000 C CNN
+F 3 "~" H 5600 3350 60  0000 C CNN
+	1    5600 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4750 3700 5200 3700
+$Comp
+L MOTEUR M?
+U 1 1 54E8B751
+P 3850 3500
+F 0 "M?" H 3700 3900 60  0000 C CNN
+F 1 "MOTEUR" H 3850 4000 60  0000 C CNN
+F 2 "" H 3850 3500 60  0000 C CNN
+F 3 "" H 3850 3500 60  0000 C CNN
+	1    3850 3500
+	-1   0    0    -1  
+$EndComp
+$Comp
+L CONTACT_TR K2
+U 1 1 54E8B7BD
+P 6650 3700
+F 0 "K2" H 6370 3570 60  0000 C CNN
+F 1 "SHUTTER_CLOSE" H 6900 3550 60  0000 C CNN
+F 2 "" H 6650 3700 60  0000 C CNN
+F 3 "" H 6650 3700 60  0000 C CNN
+	1    6650 3700
+	-1   0    0    1   
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 54E8B7EF
+P 7250 3850
+F 0 "#PWR?" H 7250 3850 30  0001 C CNN
+F 1 "GND" H 7250 3780 30  0001 C CNN
+F 2 "" H 7250 3850 60  0000 C CNN
+F 3 "" H 7250 3850 60  0000 C CNN
+	1    7250 3850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7250 3850 7250 3700
+Wire Wire Line
+	7250 3700 7100 3700
+Wire Wire Line
+	6200 3700 6000 3700
+NoConn ~ 6000 3600
+NoConn ~ 6000 3500
+NoConn ~ 6000 3400
+NoConn ~ 6000 3300
+NoConn ~ 6000 3200
+NoConn ~ 6000 3100
+$Comp
+L CONTACT_TR K1
+U 1 1 54E8B80D
+P 6650 3000
+F 0 "K1" H 6370 2870 60  0000 C CNN
+F 1 "SHUTTER_OPEN" H 6900 2850 60  0000 C CNN
+F 2 "" H 6650 3000 60  0000 C CNN
+F 3 "" H 6650 3000 60  0000 C CNN
+	1    6650 3000
+	-1   0    0    1   
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 54E8B813
+P 7250 3150
+F 0 "#PWR?" H 7250 3150 30  0001 C CNN
+F 1 "GND" H 7250 3080 30  0001 C CNN
+F 2 "" H 7250 3150 60  0000 C CNN
+F 3 "" H 7250 3150 60  0000 C CNN
+	1    7250 3150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7250 3150 7250 3000
+Wire Wire Line
+	7250 3000 7100 3000
+Wire Wire Line
+	6200 3000 6000 3000
+$Comp
+L RVAR R?
+U 1 1 54E8BBBA
+P 3350 3500
+F 0 "R?" V 3430 3450 50  0000 C CNN
+F 1 "RVAR" V 3270 3560 50  0000 C CNN
+F 2 "~" H 3350 3500 60  0000 C CNN
+F 3 "~" H 3350 3500 60  0000 C CNN
+	1    3350 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 54E8BBDF
+P 4750 3850
+F 0 "#PWR?" H 4750 3850 30  0001 C CNN
+F 1 "GND" H 4750 3780 30  0001 C CNN
+F 2 "" H 4750 3850 60  0000 C CNN
+F 3 "" H 4750 3850 60  0000 C CNN
+	1    4750 3850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4750 3850 4750 3700
+$Comp
+L GND #PWR?
+U 1 1 54E8BBF2
+P 3350 3850
+F 0 "#PWR?" H 3350 3850 30  0001 C CNN
+F 1 "GND" H 3350 3780 30  0001 C CNN
+F 2 "" H 3350 3850 60  0000 C CNN
+F 3 "" H 3350 3850 60  0000 C CNN
+	1    3350 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 54E8BBF9
+P 3350 3850
+F 0 "#PWR?" H 3350 3850 30  0001 C CNN
+F 1 "GND" H 3350 3780 30  0001 C CNN
+F 2 "" H 3350 3850 60  0000 C CNN
+F 3 "" H 3350 3850 60  0000 C CNN
+	1    3350 3850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3350 3750 3350 3850
+Wire Wire Line
+	4550 3800 4550 3600
+Wire Wire Line
+	4550 3200 4550 3400
+Wire Wire Line
+	4650 3300 4650 2850
+Wire Wire Line
+	3350 2850 3350 3250
+$Comp
+L CONTACT_TR K3
+U 1 1 54E8BCC5
+P 4400 2650
+F 0 "K3" H 4120 2520 60  0000 C CNN
+F 1 "EYEPIECE" H 4650 2500 60  0000 C CNN
+F 2 "" H 4400 2650 60  0000 C CNN
+F 3 "" H 4400 2650 60  0000 C CNN
+	1    4400 2650
+	-1   0    0    1   
+$EndComp
+$Comp
+L CONTACT_TR K?
+U 1 1 54E8BCE3
+P 3500 2650
+F 0 "K?" H 3220 2520 60  0000 C CNN
+F 1 "PEDAL" H 3750 2500 60  0000 C CNN
+F 2 "" H 3500 2650 60  0000 C CNN
+F 3 "" H 3500 2650 60  0000 C CNN
+	1    3500 2650
+	-1   0    0    1   
+$EndComp
+$Comp
+L VCC #PWR?
+U 1 1 54E8BCF0
+P 4750 2850
+F 0 "#PWR?" H 4750 2950 30  0001 C CNN
+F 1 "VCC" H 4750 2950 30  0000 C CNN
+F 2 "" H 4750 2850 60  0000 C CNN
+F 3 "" H 4750 2850 60  0000 C CNN
+	1    4750 2850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4650 2850 3350 2850
+Wire Wire Line
+	4750 2850 4750 3200
+Wire Wire Line
+	4850 3100 5200 3100
+Wire Wire Line
+	4850 3100 4850 2650
+Wire Wire Line
+	4750 3200 5200 3200
+Wire Wire Line
+	4650 3300 5200 3300
+Wire Wire Line
+	4550 3400 5200 3400
+Wire Wire Line
+	4550 3500 5200 3500
+Wire Wire Line
+	4550 3600 5200 3600
+$Comp
+L VCC #PWR?
+U 1 1 54E8BEA0
+P 3050 2400
+F 0 "#PWR?" H 3050 2500 30  0001 C CNN
+F 1 "VCC" H 3050 2500 30  0000 C CNN
+F 2 "" H 3050 2400 60  0000 C CNN
+F 3 "" H 3050 2400 60  0000 C CNN
+	1    3050 2400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3050 2400 3050 2650
+$Comp
+L BOBINE RELAY
+U 1 1 54E8BF1F
+P 5600 2500
+F 0 "RELAY" H 5340 2700 60  0000 C CNN
+F 1 "BOBINE" H 5650 2300 60  0000 C CNN
+F 2 "" H 5600 2500 60  0000 C CNN
+F 3 "" H 5600 2500 60  0000 C CNN
+	1    5600 2500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4950 3000 4950 2500
+$Comp
+L GND #PWR?
+U 1 1 54E8BF43
+P 6250 2650
+F 0 "#PWR?" H 6250 2650 30  0001 C CNN
+F 1 "GND" H 6250 2580 30  0001 C CNN
+F 2 "" H 6250 2650 60  0000 C CNN
+F 3 "" H 6250 2650 60  0000 C CNN
+	1    6250 2650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6250 2650 6250 2500
+Text Label 5000 3700 0    60   ~ 0
+green
+Text Label 5000 3600 0    60   ~ 0
+yellow
+Text Label 5000 3500 0    60   ~ 0
+black
+Text Label 5000 3400 0    60   ~ 0
+rosa
+Text Label 5000 3300 0    60   ~ 0
+grey
+Wire Wire Line
+	4950 3000 5200 3000
+Text Label 5000 3200 0    60   ~ 0
+red
+Text Label 5000 3100 0    60   ~ 0
+blue
+Text Label 5000 3000 0    60   ~ 0
+violet
+Text Label 6000 3700 0    60   ~ 0
+rosa
+Text Label 6000 3000 0    60   ~ 0
+blue
+Wire Wire Line
+	4950 2500 5150 2500
+Wire Wire Line
+	6250 2500 6050 2500
+$EndSCHEMATC
